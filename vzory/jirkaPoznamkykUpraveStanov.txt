@@ -14,7 +14,8 @@ osoby a obsahovat věcný a časový rozsah zmocnění.
 Ošetřit případné vylučování členů.
 
 
-
+Podepsaní souhlasí s použitím svých osobních údajů pro účely registrace spolku ve spolkovém 
+rejstříku a pověřují ... k jednání ve věci registrace spolku.
 
 
 
@@ -63,4 +64,16 @@ změně stanov by jinak dotčení členové vůbec nerozhodovali;
 b) stanovy upravují různé druhy členství, ale neupravují podmínky změny práv a
 povinností, které s jednotlivými druhy členství souvisí. V tom případě se
 postupuje stejně, jako sub a/.
+
+§ 218
+
+Zakladatelé založí spolek, shodnou-li se na obsahu stanov; stanovy obsahují alespoň
+
+a) název a sídlo spolku,
+
+b) účel spolku,
+
+c) práva a povinnosti členů vůči spolku, popřípadě určení způsobu, jak jim budou práva a povinnosti vznikat,
+
+d) určení statutárního orgánu.
 
